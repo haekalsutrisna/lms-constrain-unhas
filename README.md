@@ -75,7 +75,3 @@ Jika anda mendapati bahwa aplikasi ini memeiliki kerentanan keamanan atau ada fu
 
 Semua kontribusi perbaikan atau ide yang anda ingin tuangkan atau kembangkan silahkan lakukan pullrequest.
 
-## 👔 Lisensi
-
-OnyetCBT adalah perangkat lunak bersumber terbuka yang dilisensikan di bawah [Lisensi MIT](https://opensource.org/licenses/MIT).
-<b>Kami harap jangan menghilangkan tulisan OCBT pada config.ocbt.php dan copyright = Onyet App.</b>
