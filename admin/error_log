@@ -1,0 +1,6 @@
+[06-Dec-2023 00:05:56 Asia/Jakarta] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/conf2156/public_html/test.constrain2024hmtiftuh.com/config/config.default.php on line 2
+[06-Dec-2023 00:05:59 Asia/Jakarta] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/conf2156/public_html/test.constrain2024hmtiftuh.com/config/config.default.php on line 2
+[06-Dec-2023 00:06:18 Asia/Jakarta] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/conf2156/public_html/test.constrain2024hmtiftuh.com/config/config.default.php on line 2
+[06-Dec-2023 00:06:19 Asia/Jakarta] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/conf2156/public_html/test.constrain2024hmtiftuh.com/config/config.default.php on line 2
+[19-Aug-2024 09:53:33 Asia/Jakarta] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/conf2156/public_html/test.constrain2024hmtiftuh.com/config/config.default.php on line 2
+[19-Aug-2024 10:22:50 Asia/Jakarta] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/conf2156/public_html/test.constrain2024hmtiftuh.com/config/config.default.php on line 2
