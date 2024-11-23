@@ -4,17 +4,17 @@ error_reporting(0);
 (isset($_SESSION['id_user'])) ? $id_user = $_SESSION['id_user'] : $id_user = 0;
 
 
-//JIKA DIINSTAL DISUBDOMAIN HOSTING HAPUS TANDA // BARIS DIBAWAH INI
+// //JIKA DIINSTAL DISUBDOMAIN HOSTING HAPUS TANDA // BARIS DIBAWAH INI
 
-$uri = $_SERVER['REQUEST_URI'];
-$pageurl = explode("/",$uri);
+// $uri = $_SERVER['REQUEST_URI'];
+// $pageurl = explode("/",$uri);
 
-$homeurl = "https://".$_SERVER['HTTP_HOST'];
-(isset($pageurl[1])) ? $pg = $pageurl[1] : $pg = '';
-(isset($pageurl[2])) ? $ac = $pageurl[2] : $ac = '';
-(isset($pageurl[3])) ? $id = $pageurl[3] : $id = 0;
+// $homeurl = "https://".$_SERVER['HTTP_HOST'];
+// (isset($pageurl[1])) ? $pg = $pageurl[1] : $pg = '';
+// (isset($pageurl[2])) ? $ac = $pageurl[2] : $ac = '';
+// (isset($pageurl[3])) ? $id = $pageurl[3] : $id = 0;
 
-//HAPUS SAMPAI BARIS DIATAS INI
+// //HAPUS SAMPAI BARIS DIATAS INI
 
 require "config.database.php";
 
