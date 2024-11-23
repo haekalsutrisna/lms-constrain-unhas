@@ -138,7 +138,7 @@ if (isset($_POST['username']) && isset($_POST['password'])) {
         <p class="mt-3" style="margin-bottom: 0;">
             <a href="https://constrain2024hmtiftuh.com/">Back to Main Menu.</a>
         </p>
-        <p class="mt-4 mb-3 text-muted"><a href="https://xinergiweb.com">©Copyright 2023 Xinergiweb</a></p>
+        <p class="mt-4 mb-3 text-muted"><a href="https://xinergi.web.id">©Copyright 2023 Xinergiweb</a></p>
     </form>
     <script src="<?= $homeurl ?>/dist/vendor/particles.js-master/particles.min.js"></script>
     <script>
